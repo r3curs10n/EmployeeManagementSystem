@@ -1,0 +1,21 @@
+EMPLOYEE MANAGEMENT SYSTEM
+
+REQUIREMENTS:
+-------------
+
+It requires MYSQL to be already installed on the target machine.
+
+if WAMP/XAMPP server is used then the server has to accessed using localhost (When creating a user, set host = localhost (not %)),
+with username = "emsadmin" and password = "ptls".
+
+OR
+
+you can easily change the 'username' and 'password' in the source code appropriately.
+
+LOGIN:
+------
+the admin username is "admin" and password is "admin".
+it is required to login as admin and then the admin can alter the database.
+
+
+
